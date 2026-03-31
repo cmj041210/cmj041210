@@ -39,7 +39,8 @@
 
 <h3 align="center"><b>Contact</b></h3>
 <p align="center">
-  <a href="https://www.instagram.com/choiminjooo" target="_blank"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="mailto:cmj041210@kau.kr" target="_blank"><img src="https://img.shields.io/badge/email-50B0E9?style=for-the-badge&logo=Gmail&logoColor=white"/></a> <a href="https://www.notion.so/Home-2ed9f6daf0d8806b8bdfd63ae88983c3" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
+  <a href="https://www.instagram.com/choiminjooo" target="_blank"><img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:cmj041210@kau.kr" target="_blank"><img src="https://img.shields.io/badge/email-50B0E9?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.notion.so/Home-2ed9f6daf0d8806b8bdfd63ae88983c3" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </p>
 
