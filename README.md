@@ -6,12 +6,12 @@
   <b> 최민주    |    Choi Minjoo</b>
 </h3>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cmj041210&show_icons=true&theme=graywhite&hide_border=true">
-<a href="https://solved.ac/profile/cmj041210">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmj041210" />
-</a>
-</p>
+<!-- <p align="center"> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cmj041210&show_icons=true&theme=graywhite&hide_border=true"> -->
+<!-- <a href="https://solved.ac/profile/cmj041210"> -->
+<!--  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cmj041210" /> -->
+<!-- </a> -->
+<!-- </p> -->
 
 <h3 align="center"><b>Education</b></h3>
 <p align="center">
